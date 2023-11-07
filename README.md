@@ -4,7 +4,7 @@
 
 **100 points total**
 
-![My Image](handout/teaser.jpg?raw=true)
+![My Image](handout/teaser.jpg?raw=true) (Test2)
 
 ## Overview ##
 
