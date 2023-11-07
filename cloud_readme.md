@@ -1,4 +1,5 @@
 # AWS Setup Instructions #
+Test
 
 For performance testing, you will need to run this assignment on a VM instance on Amazon Web Services (AWS). Here are the steps for how to get setup for running on AWS.
 
